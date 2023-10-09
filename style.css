@@ -369,6 +369,9 @@ header {
 
 @media screen and (max-width: 780px) {
 
+  #about-me {
+    margin-top: 200px !important;
+  }
 
   .hidethis {
     display: none;
