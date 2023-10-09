@@ -369,6 +369,11 @@ header {
 
 @media screen and (max-width: 780px) {
 
+
+  .hidethis {
+    display: none;
+  }
+
   .project-card img {
     width: 100%;
     height: auto;
