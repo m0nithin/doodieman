@@ -369,6 +369,10 @@ header {
 
 @media screen and (max-width: 780px) {
 
+  #home {
+    margin-top: 5px !important;
+  }
+
   #about-me {
     margin-top: 200px !important;
   }
